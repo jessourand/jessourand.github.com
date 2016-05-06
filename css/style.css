@@ -1,0 +1,27 @@
+h1{
+  font-family: 'Lobster Two', cursive;
+  font-size:48px
+}
+
+.titleimage{
+  margin-top:20px;
+}
+
+.banner{
+  background-color:#cac099;
+}
+
+h4{
+  font-family: 'Lobster Two', cursive;
+}
+.themeat{
+  margin-top:40px;
+}
+h5{
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size:40px;
+}
+a{
+  color:inherit;
+  text-decoration:none
+}
