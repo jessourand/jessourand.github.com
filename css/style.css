@@ -21,6 +21,10 @@ h5{
   font-family: 'Oleo Script Swash Caps', cursive;
   font-size:40px;
 }
+h6{
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size:20px;
+}
 a{
   color:inherit;
   text-decoration:none
