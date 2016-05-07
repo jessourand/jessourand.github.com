@@ -25,3 +25,12 @@ a{
   color:inherit;
   text-decoration:none
 }
+hr {
+  width: 90%;
+  height: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#cac099;
+  color:#cac099;
+  border: 0 none;
+}
