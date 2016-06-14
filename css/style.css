@@ -12,9 +12,10 @@
   width: 100%;
 }
 
-.swimming{
+.mainphoto{
   position:relative;
   margin-top:10px;
+  max-width:640px;
 }
 
 .rectangle{
@@ -37,6 +38,34 @@
   top:90px;
   left:-30px;
 }
+.social-media{
+  text-decoration:none;
+  display:flex;
+  margin-left:10px;
+  margin-top:80px;
+}
+.instagram{
+  color:#e3ece6;
+}
+.twitter{
+  max-width:20px;
+  color:#e3ece6;
+}
+
+.google{
+  color:#e3ece6;
+  margin-top:1px;
+}
+
+#smedia, #smedia:visited, #smedia:active{
+  text-decoration:none;
+  color:white;
+}
+#smedia:hover{
+  color:#e3ece6;
+}
+
+
 
 #logo{
   max-width:90px;
