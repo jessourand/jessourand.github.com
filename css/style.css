@@ -30,7 +30,7 @@
 
 .mylist{
   position:absolute;
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
   float:left;
   opacity:1;
@@ -101,6 +101,6 @@ ul{
   color:white;
 }
 #mylink:hover{
-  color:gray;
+  color:#e3ece6;
   text-decoration:none;
 }
